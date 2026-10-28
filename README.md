@@ -60,4 +60,7 @@ Through this internship task, I gained an understanding of the principles of cau
 This activity strengthened my knowledge of ADR evaluation, clinical documentation, and medicine safety monitoring.
 ## 9. Conclusion
 Causality assessment is an important part of pharmacovigilance because it evaluates the possible relationship between a medicine and an adverse reaction. Using structured methods and reliable 
+##10. References
+1.WHO–UMC: The use of the WHO–UMC system for standardised case causality assessment.
+2.Naranjo CA, et al. A method for estimating the probability of adverse drug reactions. Clinical Pharmacology & Therapeutics
 <img width="1312" height="1199" alt="addab761-5185-4b28-878e-1b13eae65aa0" src="https://github.com/user-attachments/assets/cd12b2db-c553-429f-91c2-d17410c56bb9" />
